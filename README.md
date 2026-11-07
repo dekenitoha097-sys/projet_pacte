@@ -1,4 +1,4 @@
-# PACTE Agri - Plateforme de Monitoring B2B
+# PACTE: Plateforme de Monitoring B2B
 
 ## L'Équipe
 * Toha Dekeni
